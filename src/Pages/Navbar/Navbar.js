@@ -1,7 +1,6 @@
 import React from "react";
 
 const Navbar = ({ count, Guns }) => {
-  console.log(Guns);
   return (
     <div className="sticky top-0 z-30">
       <div className="navbar lg:px-10 shadow-lg rounded-2xl bg-base-100 ">
